@@ -21,3 +21,5 @@ learning git with JavaScript mastery
 - repository(local repo and remote repo)
 - HEAD(detached head)
 - branches
+
+- making this changes from the new-feature branch
