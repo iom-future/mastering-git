@@ -1,4 +1,4 @@
-# mastering git
+# Learning git
 
 learning git with JavaScript mastery
 ## what I learnt
@@ -23,3 +23,4 @@ learning git with JavaScript mastery
 - branches
 
 - making this changes from the new-feature branch
+- this is coming from dev-iom-future
